@@ -1,5 +1,10 @@
 .container {
   padding: 0 2rem;
+  background-color: white;
+}
+.container2 {
+  padding: 0 2rem;
+  background-color: gray;
 }
 
 .main {
